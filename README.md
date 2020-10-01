@@ -10,7 +10,7 @@ My HealthTime-Bellybutton website will host four pages:
 4. Leaflet Map with Layers of Health Indicators
 
 ### 2. Sketch of the final design
-<br>![final_design.png](healthtimes/Images/final_design.png)
+<br>![final_design.png](Images/final_design.png)
 
 ### 3. Three to four screenshots of relevant inspiring visuals that framed your creative fodder
 <br>![dashboard_pt1.png](Images/dashboard_pt1.png)
